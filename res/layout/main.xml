@@ -14,7 +14,6 @@
     <com.dhc.demos.circlebuttontest.preference.CircleButton
             android:layout_width="100dp"
             android:layout_height="100dp"
-
             android:src="@drawable/ic_launcher"
             app:cb_color="#99CC00"
             app:cb_pressedRingWidth="20dip"
